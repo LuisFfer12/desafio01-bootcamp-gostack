@@ -1,0 +1,17 @@
+{
+  "name": "desafio01-bootcamp-gostack",
+  "version": "1.0.0",
+  "description": "desafio 01 conceitos node.js",
+  "main": "index.js",
+  "author": "Luis Fernando Oliveira",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
